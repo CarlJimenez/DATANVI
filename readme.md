@@ -1,4 +1,4 @@
-#DATANVI Final Project
+# DATANVI Final Project
 
 ## About the Project
 In doing the web application the team has utilized jupyter notebook as it's main IDE.
