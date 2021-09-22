@@ -15,3 +15,9 @@ conda install -c conda-forge bootstrap
 
 # Runnig The Program
 Just run all cells thats in the notebook
+
+# Note
+```bash
+from jupyter_dash import JupyterDash
+```
+This line can be removed if the program is running outside of Jupyter Notebook
