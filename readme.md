@@ -4,11 +4,11 @@
 In doing the web application the team has utilized jupyter notebook as it's main IDE.
 The project is about visualizing datasets related to streaming websites (i.e Netflix, Hulu, Prime and Disney).
 ## Built With
-Plotly Dash
-Bootstrap 
-Pandas
-Numpy
-Gensim
+* Plotly Dash 
+* Bootstrap 
+* Pandas
+* Numpy
+* Gensim
 
 ## Installation of Dependencies 
 ```bash
